@@ -1,3 +1,0 @@
-﻿  test.cpp
-F:\练习代码\practice-of-c-plus-plus\test_4_21美丽字符串\test_4_21美丽字符串\test.cpp(9,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-  test_4_21美丽字符串.vcxproj -> F:\练习代码\practice-of-c-plus-plus\test_4_21美丽字符串\x64\Debug\test_4_21美丽字符串.exe
